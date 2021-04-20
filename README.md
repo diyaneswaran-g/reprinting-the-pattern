@@ -1,0 +1,2 @@
+# reprinting-the-pattern
+the program will print 01 0101 010101 01010101 010101010101.......010101010101010101010101
